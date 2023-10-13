@@ -1,7 +1,7 @@
 /*
 * FILE           : m2.cpp
 * PROJECT        : SENG1000 - Major Assignment 2
-* PROGRAMMER     : Carter Coombs
+* PROGRAMMER     : Carter Coombs - 8868877
 * FIRST VERSION  : 2023-10-13
 * DESCRIPTION    :
 *	This program takes user input for an integer base and an integer exponent
