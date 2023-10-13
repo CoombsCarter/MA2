@@ -1,10 +1,11 @@
 /*
-* FILE           : f4.cpp
-* PROJECT        : SENG1000 - Focused Assignment 4
-* PROGRAMMER     : Carter Coombs - 8868877
-* FIRST VERSION  : 2023-10-05
+* FILE           : m2.cpp
+* PROJECT        : SENG1000 - Major Assignment 2
+* PROGRAMMER     : Carter Coombs
+* FIRST VERSION  : 2023-10-13
 * DESCRIPTION    :
-*	This program takes a users list of inputted integers and decides which integer is the lowest.
+*	This program takes user input for an integer base and an integer exponent
+*	and returns a power calculation
 */
 
 
@@ -22,7 +23,12 @@ main() {
 
 
 
-
+/*
+* Function: powerCalculation()
+* Description: 
+* Parameters: 
+* Returns: 
+*/
 int powerCalculation(int base, int exponent) {
 	int calculatedValue = 1;
 	for (int i = 0; i < exponent; i++) {
