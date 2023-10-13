@@ -23,6 +23,17 @@ main() {
 
 
 
+int powerCalculation(int base, int exponent) {
+	int calculatedValue = 1;
+	for (int i = 0; i < exponent; i++) {
+		calculatedValue = (base * calculatedValue);
+	}
+	return calculatedValue;
+}
+
+
+
+
 /*
 * Function: getNum()
 * Description: This function takes a user input and that input as an integer
